@@ -1,9 +1,5 @@
 
-
-Name : Shreyas N Mahanthappa
-email : smn1@binghamton.edu
-subject : CS520
-project : InOrder Simulator
+Project : InOrder Simulator
 
 1. Unzip the package. Place the input file you want to test
 	in the same folder as that of the java files
